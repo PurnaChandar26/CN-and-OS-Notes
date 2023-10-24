@@ -37,7 +37,7 @@ Welcome to the "OS and CN Notes" repository! This repository contains comprehens
 
 4\. [OSI Model
 
-5\. [TCP/IP Reference Model](#tcpip-reference-model)
+5\. [TCP/IP Reference Model
 
 6\. [HTTP and HTTPS](#http-and-https)
 
