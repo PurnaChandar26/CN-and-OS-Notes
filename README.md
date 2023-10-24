@@ -6,13 +6,13 @@ Welcome to the "OS and CN Notes" repository! This repository contains comprehens
 
 ### Table of Contents
 
-1\. [Operating System & Types of OS](#operating-system--types-of-os)
+1\. Operating System & Types of OS
 
-2\. [Various Process States](#various-process-states)
+2\. Various Process States
 
-3\. [CPU Scheduling Algorithms](#cpu-scheduling-algorithms)
+3\. CPU Scheduling Algorithms
 
-4\. [Process Synchronization](#process-synchronization)
+4\. Process Synchronization
 
 5\. [Deadlock & Handling Techniques](#deadlock--handling-techniques)
 
