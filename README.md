@@ -29,25 +29,25 @@ Welcome to the "OS and CN Notes" repository! This repository contains comprehens
 
 ### Table of Contents
 
-1\. [Types of Network Topology
+1\. Types of Network Topology
 
-2\. [Different Types of Networks
+2\. Different Types of Networks
 
-3\. [VPN & its Types & Advantages
+3\. VPN & its Types & Advantages
 
-4\. [OSI Model
+4\. OSI Model
 
-5\. [TCP/IP Reference Model
+5\. TCP/IP Reference Model
 
-6\. [HTTP and HTTPS
+6\. HTTP and HTTPS
 
-7\. [DNS](#dns)
+7\. DNS
 
-8\. [Difference Between TCP and UDP
+8\. Difference Between TCP and UDP
 
-9\. [Ipconfig and Ifconfig
+9\. Ipconfig and Ifconfig
 
-10\. [MAC Address and IP Address
+10\. MAC Address and IP Address
 
 
 
