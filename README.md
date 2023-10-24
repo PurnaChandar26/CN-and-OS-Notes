@@ -39,7 +39,7 @@ Welcome to the "OS and CN Notes" repository! This repository contains comprehens
 
 5\. [TCP/IP Reference Model
 
-6\. [HTTP and HTTPS](#http-and-https)
+6\. [HTTP and HTTPS
 
 7\. [DNS](#dns)
 
