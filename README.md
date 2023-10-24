@@ -31,7 +31,7 @@ Welcome to the "OS and CN Notes" repository! This repository contains comprehens
 
 1\. [Types of Network Topology
 
-2\. [Different Types of Networks](#different-types-of-networks)
+2\. [Different Types of Networks
 
 3\. [VPN & its Types & Advantages](#vpn--its-types--advantages)
 
