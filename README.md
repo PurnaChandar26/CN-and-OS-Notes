@@ -24,41 +24,6 @@ Welcome to the "OS and CN Notes" repository! This repository contains comprehens
 
 9\. [Disk Scheduling Algorithms](#disk-scheduling-algorithms)
 
-### Operating System & Types of OS
-
-- Learn about what an operating system is and the various types of OS that exist.
-
-### Various Process States
-
-- Understand the different states a process can be in and how they transition between these states.
-
-### CPU Scheduling Algorithms
-
-- Explore various algorithms used for scheduling processes in the CPU.
-
-### Process Synchronization
-
-- Learn about the synchronization of processes and how to ensure they work together efficiently.
-
-### Deadlock & Handling Techniques
-
-- Discover what deadlock is and techniques to prevent or resolve it.
-
-### Memory Management
-
-- Understand how an OS manages memory resources.
-
-### Paging & Its Replacement Algorithms
-
-- Dive into the concept of paging and the algorithms used to replace pages in memory.
-
-### Thrashing & Segmentation
-
-- Learn about the problems associated with thrashing and memory segmentation.
-
-### Disk Scheduling Algorithms
-
-- Explore the algorithms that govern how data is read from and written to disks.
 
 ## Computer Networking
 
