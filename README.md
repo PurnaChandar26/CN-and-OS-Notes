@@ -14,15 +14,15 @@ Welcome to the "OS and CN Notes" repository! This repository contains comprehens
 
 4\. Process Synchronization
 
-5\. [Deadlock & Handling Techniques](#deadlock--handling-techniques)
+5\. Deadlock & Handling Techniques
 
-6\. [Memory Management](#memory-management)
+6\. Memory Management
 
-7\. [Paging & Its Replacement Algorithms](#paging--its-replacement-algorithms)
+7\. Paging & Its Replacement Algorithms
 
-8\. [Thrashing & Segmentation](#thrashing--segmentation)
+8\. Thrashing & Segmentation
 
-9\. [Disk Scheduling Algorithms](#disk-scheduling-algorithms)
+9\. Disk Scheduling Algorithms
 
 
 ## Computer Networking
