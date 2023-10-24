@@ -49,44 +49,6 @@ Welcome to the "OS and CN Notes" repository! This repository contains comprehens
 
 10\. [MAC Address and IP Address](#mac-address-and-ip-address)
 
-### Types of Network Topology
 
-- Explore different network topologies such as star, bus, and ring.
-
-### Different Types of Networks
-
-- Learn about LAN, WAN, MAN, and other network types.
-
-### VPN & its Types & Advantages
-
-- Understand what Virtual Private Networks are and their various types and advantages.
-
-### OSI Model
-
-- Explore the OSI (Open Systems Interconnection) model, which is essential in understanding network protocols.
-
-### TCP/IP Reference Model
-
-- Delve into the TCP/IP model, the foundation of the Internet.
-
-### HTTP and HTTPS
-
-- Learn about the Hypertext Transfer Protocol and its secure variant, HTTPS.
-
-### DNS
-
-- Understand the Domain Name System and how it translates domain names to IP addresses.
-
-### Difference Between TCP and UDP
-
-- Differentiate between TCP (Transmission Control Protocol) and UDP (User Datagram Protocol).
-
-### Ipconfig and Ifconfig
-
-- Explore commands for retrieving network configuration information in different operating systems.
-
-### MAC Address and IP Address
-
-- Learn about Media Access Control (MAC) addresses and Internet Protocol (IP) addresses.
 
 Feel free to explore these notes and enhance your knowledge of Operating Systems and Computer Networking. If you have any questions or suggestions for improvements, please don't hesitate to reach out. Your contributions are welcome!
