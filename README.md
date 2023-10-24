@@ -45,9 +45,9 @@ Welcome to the "OS and CN Notes" repository! This repository contains comprehens
 
 8\. [Difference Between TCP and UDP
 
-9\. [Ipconfig and Ifconfig](#ipconfig-and-ifconfig)
+9\. [Ipconfig and Ifconfig
 
-10\. [MAC Address and IP Address](#mac-address-and-ip-address)
+10\. [MAC Address and IP Address
 
 
 
