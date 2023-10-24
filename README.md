@@ -33,7 +33,7 @@ Welcome to the "OS and CN Notes" repository! This repository contains comprehens
 
 2\. [Different Types of Networks
 
-3\. [VPN & its Types & Advantages](#vpn--its-types--advantages)
+3\. [VPN & its Types & Advantages
 
 4\. [OSI Model](#osi-model)
 
