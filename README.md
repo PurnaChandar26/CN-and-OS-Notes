@@ -35,7 +35,7 @@ Welcome to the "OS and CN Notes" repository! This repository contains comprehens
 
 3\. [VPN & its Types & Advantages
 
-4\. [OSI Model](#osi-model)
+4\. [OSI Model
 
 5\. [TCP/IP Reference Model](#tcpip-reference-model)
 
