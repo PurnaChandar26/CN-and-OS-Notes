@@ -43,7 +43,7 @@ Welcome to the "OS and CN Notes" repository! This repository contains comprehens
 
 7\. [DNS](#dns)
 
-8\. [Difference Between TCP and UDP](#difference-between-tcp-and-udp)
+8\. [Difference Between TCP and UDP
 
 9\. [Ipconfig and Ifconfig](#ipconfig-and-ifconfig)
 
