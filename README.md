@@ -3,7 +3,7 @@
 Welcome to the "OS and CN Notes" repository! This repository contains comprehensive notes on Operating Systems (OS) and Computer Networking (CN). Whether you are a student, a developer, or simply someone interested in understanding the fundamental concepts of OS and CN, this collection of notes will serve as a valuable resource.
 
 ## Operating Systems
-
+ 
 ### Table of Contents
 
 1\. Operating System & Types of OS
